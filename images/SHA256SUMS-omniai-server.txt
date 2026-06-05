@@ -1,0 +1,16 @@
+# omniai-server image — 재조립: cat omniai-server.tar.* > omniai-server.tar ; docker load -i omniai-server.tar
+# 분할 조각 체크섬 (전송 무결성):
+fe1a1e3e45c68ccd8c8dd295c7d5bbcd6f4d631097abb9e0b438a285dc620c2a *omniai-server.tar.000
+12b17f42440901ac1e996a796bd23d118d2c1471abea93c33a4dac010177ff1e *omniai-server.tar.001
+2e427420531348efde2edb82ba35ba71e403f2ee72dde6948ec5d88303cec54f *omniai-server.tar.002
+d0be2f91a10b2591b503c506700387000be38d13c677ba4a649da32617eb8258 *omniai-server.tar.003
+91bad417987af1fd370cca101b39b813248b1bc443d910d5ebdc4a2ca54a5ed0 *omniai-server.tar.004
+a2a5af48427371d8b33e150debc3c553ff71803ef0c9d0279f8cfe3ff568d255 *omniai-server.tar.005
+7cf94bc4985bf40cd0f96cbbf1b64b69f4766e62e38f363ec4098c9c00c52541 *omniai-server.tar.006
+c2bf887dd50cd2c36704b483eba5f6c3b746639cab15c1391358ebb02d26cf59 *omniai-server.tar.007
+b6e683039fd72fd3fe233db01a3664d594a7ff90c109385694f024996269663f *omniai-server.tar.008
+ff757a17c0362c450a105ad894df592765d6acc662eca100370e5ac3b12273da *omniai-server.tar.009
+9d296c604621dc84e67f6614acade5e4c0b7f461e278a6c7f8cf2b0f8da716c2 *omniai-server.tar.010
+dab1b6294d196fbd2e3cc33dbc2802e2a2f45bf1ed05242e1d932261f3865f87 *omniai-server.tar.011
+# 재조립된 전체 tar 체크섬:
+3f0d339fde4af4b86653477cd65ba4b398de9f67527402fa703c39ea224c4ecf  omniai-server.tar
